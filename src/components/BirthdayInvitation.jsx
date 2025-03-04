@@ -179,18 +179,17 @@ const BirthdayInvitation = () => {
           </div>  
         </div>  
 
-        {/* Footer */}  
         <footer className="mt-4 text-center">  
-          <p>© 2025 Sebastian Garcia. Todos los derechos reservados.</p>  
-          <div className="social-icons">  
-            <a href="https://www.facebook.com/sebastian.a.garcia.90" target="_blank" rel="noopener noreferrer">  
-            <i class="FaFacebookSquare" style={{ fontSize: '24px', color: '#3b5998' }}></i>  
-            </a>  
-            <a href="https://www.instagram.com/sebassgarcia14/" target="_blank" rel="noopener noreferrer">  
-              <i className="fab fa-instagram me-2" style={{ fontSize: '24px', color: '#C13584' }}></i>  
-            </a>  
-          </div>  
-        </footer>  
+  <p>© 2025 Sebastian Garcia. Todos los derechos reservados.</p>  
+  <div className="social-icons">  
+  <a href="https://www.facebook.com/sebastian.a.garcia.90" target="_blank" rel="noopener noreferrer">  
+    <i className="fab fa-facebook-square" style={{ fontSize: '24px', color: '#3b5998', marginRight: '15px' }}></i>  
+  </a>  
+  <a href="https://www.instagram.com/sebassgarcia14/" target="_blank" rel="noopener noreferrer">  
+    <i className="fab fa-instagram" style={{ fontSize: '24px', color: '#C13584' }}></i>  
+  </a>  
+</div>  
+</footer>  
       </div>  
     </div>  
   );  

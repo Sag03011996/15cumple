@@ -123,13 +123,13 @@ const BirthdayInvitation = () => {
             <Button   
               variant="outline-primary"  
               className="me-2"  
-              onClick={() => window.open('https://wa.me/3816714749?text=Hola,%20solamente%20quería%20confirmar%20que%20estaré%20presente%20en%20su%20noche,%20mi%20nombre%20es:%20Elisa', '_blank')}  
+              onClick={() => window.open('https://wa.me/3816714749?text=Hola,%20solamente%20quería%20confirmar%20que%20estaré%20presente%20en%20su%20noche,%20mi%20nombre%20es:%20', '_blank')}  
             >  
               Elisa  
             </Button>  
             <Button   
               variant="outline-primary"  
-              onClick={() => window.open('https://wa.me/3816636830?text=Hola,%20solamente%20quería%20confirmar%20que%20estaré%20presente%20en%20su%20noche,%20mi%20nombre%20es:%20Mariana', '_blank')}  
+              onClick={() => window.open('https://wa.me/3816636830?text=Hola,%20solamente%20quería%20confirmar%20que%20estaré%20presente%20en%20su%20noche,%20mi%20nombre%20es:%20', '_blank')}  
             >  
               Mariana  
             </Button>  
